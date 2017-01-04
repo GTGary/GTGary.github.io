@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+#GTGARY Blog
+## Welcome to MyBlog!
 
 You can use the [editor on GitHub](https://github.com/GTGary/GTGary.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
