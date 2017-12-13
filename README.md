@@ -1,7 +1,7 @@
 
 
 # GTGARY BLOG
-## Welcome to MyBlog!
+#  Welcome to MyBlog!
 
 You can use the [editor on GitHub](https://github.com/GTGary/GTGary.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -29,7 +29,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [GitHub Flavored Markdown](http://blog.csdn.net/liu_kanghua).
 
 ### Jekyll Themes
 
